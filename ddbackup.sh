@@ -19,6 +19,6 @@ echo -e "\e[93mstart zipping $file\e[0m"
 pv $file | gzip > $file.gz &&
 echo
 echo -e "\e[93m###############################################################################\e[0m"
-echo -e "\e[93m				backup for $HOSTNAME completed				     \e[0m"
+echo -e "\e[93m				backup for $HOSTNAME completed				                                  \e[0m"
 echo -e "\e[93m###############################################################################\e[0m"
 echo
