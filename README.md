@@ -1,4 +1,4 @@
-# try_this
+# getting-started
 
 Hello and welcome to my first repository.
 Here I will upload most of my private findings, scripts, stacks, and so on.
