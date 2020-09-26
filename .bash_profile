@@ -22,7 +22,7 @@ fortune | cowsay -f tux
 # -------
 alias l="ls"
 alias o="open ."
-alias ll='ls -la --human-readable --size -1 -S --classify'
+alias ll='ls -lah'
 
 
 # ---------
